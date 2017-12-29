@@ -7,4 +7,4 @@ https://abraun.shinyapps.io/Forestry_Analytics/
 
 The application consists of 3 files: ui.R (user Interface), server.R (backend) and global.R (pre-precessing of loaded database and defining global objects). These files could be found in current repository. 
 
-Reprodicible Pitch was made with R Presenter and could be found here:
+Reprodicible Pitch was made with R Presenter and published with RPubs:
