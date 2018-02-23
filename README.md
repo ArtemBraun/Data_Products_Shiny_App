@@ -2,6 +2,8 @@
 
 This Assignment is part of Developing Data Products Course by Coursera. The goal is to make Shiny Application and Reproducible Pitch.
 
+This application has applied value for Marketing Department of my employer company (forestry industry).
+
 **Web application** was made using R and Shiny framework and could be accessed here:  
 https://abraun.shinyapps.io/Forestry_Analytics/
 (please, wait for 1-2 munites while data is being downloaded)
