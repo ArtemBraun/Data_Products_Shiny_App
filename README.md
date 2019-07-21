@@ -11,7 +11,7 @@ https://abraun.shinyapps.io/Forestry_Analytics/
 The application consists of 3 files: 
 - ui.R (user Interface)
 - server.R (backend)
-- global.R (pre-precessing of loaded database and defining global objects). 
+- global.R (pre-processing of loaded database and defining global objects). 
 </br>
 These files could be found in current repository. 
 
